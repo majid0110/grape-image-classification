@@ -39,6 +39,7 @@ The repository has the following file structure:
 grapes-image-classification/
 ├── main.py
 ├── model.py
+├── Grape_leaves_disease_detection.ipynb
 ├── dataset/
 │ ├── grapes images/
 │ │ ├── train/
